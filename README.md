@@ -1,4 +1,4 @@
-### **README - Versão 1: Simulação de Fluido com Controle Interativo (Sem Reinício)**
+### **README - Versão 1. SimulacaoUltra: Simulação de Fluido com Controle Interativo (Sem Reinício)**
 
 ## Descrição
 
@@ -54,7 +54,7 @@ A classe principal que gerencia a criação do campo de fluido, as partículas e
 
 ---
 
-### **README - Versão 2: Simulação de Fluido com Reinício da Animação**
+### **README - Versão 2. SimulacaoBasica: Simulação de Fluido com Reinício da Animação**
 
 ## Descrição
 
